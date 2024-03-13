@@ -9,8 +9,6 @@
   
 - 🌱 I'm currently studying Javascript and delving deeper into Typescript and Angular.
   
-- 📫 Contact me: lucas.cordella0804@gmail.com
-  
 - 😄 Pronouns: he/him
 
 ##
