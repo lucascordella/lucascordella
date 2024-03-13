@@ -1,6 +1,6 @@
 <h1 >Hi there! I'm Lucas Cordella.</h1>
 
-### I'm an Analysis and Systems Development student at UniLaSalle, Brazil. 
+### I'm an Analysis and Systems Development student at UniLaSalle, Rio Grande do Sul - Brazil. 
 
 ##
 <h3>About me:</h3>
