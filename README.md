@@ -4,7 +4,7 @@
 
 ##
 <h3>About me:</h3>
-- 🔭 - I worked as an intern in the Summer Internship Program at Instituto de Pesquisas Eldorado. What was done there: Development of a POC (Proof of Concept) of a software which the goal was a training about the LGPD (brazilian personal data protection laws) for small e-commerce companies. As responsible for the front-end, the tools that I used were Angular, Angular Material, Typescript, HTML and CSS. Additionally, I have experience in following structures developed by a UI/UX. The Scrum technique was used as a management structure, as well as the Jira platform for organizing the team's sprints and Bitbucket for hosting the codes.
+- 🔭 I worked as an intern in the Summer Internship Program at Instituto de Pesquisas Eldorado. What was done there: Development of a POC (Proof of Concept) of a software which the goal was a training about the LGPD (brazilian personal data protection laws) for small e-commerce companies. As responsible for the front-end, the tools that I used were Angular, Angular Material, Typescript, HTML and CSS. Additionally, I have experience in following structures developed by a UI/UX. The Scrum technique was used as a management structure, as well as the Jira platform for organizing the team's sprints and Bitbucket for hosting the codes.
   
 - 🌱 I'm currently studying Javascript and delving deeper into Typescript and Angular. 
   
